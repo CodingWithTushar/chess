@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This project marks the beginning of my journey into Next.js. By starting with a React-based implementation, I aim to:
+
+Gain a deeper understanding of React fundamentals.
+Build confidence in transitioning projects to Next.js.
+Explore advanced web development techniques for scalable applications.
+
 ## Getting Started
 
 First, run the development server:
